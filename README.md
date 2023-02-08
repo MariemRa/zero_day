@@ -1,13 +1,8 @@
-# Vagrant - or - how to code in your local computer
+# What is vagrant?
 
-## Learning Objectives
+Vagrant is an open-source tool that helps us to automate the creation and management of Virtual Machines.
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+# What is Ubuntu?
 
-* What is a virtual machine
+Ubuntu is the modern, open source operating system on Linux for the entreprise server, desktop, cloud, and loT.
 
-* What is Vagrant
-
-* Who wrote Vagrant
-
-* What is Ubuntu 
